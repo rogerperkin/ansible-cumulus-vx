@@ -1,0 +1,12 @@
+---
+device: 
+  hostname: "Cumulus-1"
+  type: "spine"
+
+interfaces:
+  mgmt: "192.168.1.230/24"
+  switchports: 
+    edge: "False"
+    vlan: {}
+
+  
